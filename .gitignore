@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets and private/restricted data
+data/
+datasets/
+*.csv
+*.parquet
+*.zip
+*.tar
+*.tar.gz
+
+# Trained models and checkpoints
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.keras
+
+# Intermediate arrays and generated outputs
+*.npy
+outputs/
+results/
+logs/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

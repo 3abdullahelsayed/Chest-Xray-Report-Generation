@@ -1,0 +1,11 @@
+# Recommended: Python 3.10 or 3.11; TensorFlow 2.16+ / Keras 3
+tensorflow>=2.16
+numpy
+pandas
+Pillow
+matplotlib
+tqdm
+kagglehub
+nltk
+rouge-score
+gradio

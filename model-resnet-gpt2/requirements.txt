@@ -1,0 +1,10 @@
+# Install a PyTorch/torchvision build compatible with your CUDA or CPU environment:
+# https://pytorch.org/get-started/locally/
+torch
+torchvision
+transformers
+numpy
+pandas
+Pillow
+tqdm
+gradio

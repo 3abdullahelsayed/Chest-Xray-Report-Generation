@@ -1,0 +1,7 @@
+{
+  "vocab_size": 5251,
+  "max_length": 109,
+  "start_token": "<start>",
+  "end_token": "<end>",
+  "unknown_token": "<unk>"
+}
